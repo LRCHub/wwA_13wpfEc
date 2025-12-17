@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Into the Sky",
+  "base_artist": "澤野弘之",
+  "createdAt": "2025-12-17T13:42:52.791411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Into the Sky",
+      "artist": "Ducktails",
+      "has_synced": true,
+      "path": "select/01_Into_the_Sky_Ducktails.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Screaming Into the Sky",
+      "artist": "Kingdom of Sorrow",
+      "has_synced": true,
+      "path": "select/02_Screaming_Into_the_Sky_Kingdom_of_Sorrow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Break Into the Sky of Aeon",
+      "artist": "Leaves' Eyes",
+      "has_synced": true,
+      "path": "select/03_Break_Into_the_Sky_of_Aeon_Leaves'_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Break Into the Sky of Aeon (Instrumental version)",
+      "artist": "Leaves’ Eyes",
+      "has_synced": true,
+      "path": "select/04_Break_Into_the_Sky_of_Aeon_(Instrumental_version)_Leaves’_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Into the Sky",
+      "artist": "SawanoHiroyuki[nZk]:Tielle",
+      "has_synced": true,
+      "path": "select/05_Into_the_Sky_SawanoHiroyuki[nZk]_Tielle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Into the Sky",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/06_Into_the_Sky_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Into the Sky",
+      "artist": "SawanoHiroyuki[nZk]:Tielle",
+      "has_synced": true,
+      "path": "select/07_Into_the_Sky_SawanoHiroyuki[nZk]_Tielle.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Into The Sky",
+      "artist": "Black Tide",
+      "has_synced": true,
+      "path": "select/08_Into_The_Sky_Black_Tide.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fall Into The Sky",
+      "artist": "Zedd feat. Lucky Date & Ellie Goulding",
+      "has_synced": true,
+      "path": "select/09_Fall_Into_The_Sky_Zedd_feat._Lucky_Date_&_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fall Into The Sky (Lucky Date & Zedd) (Feat. Ellie Goulding)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/10_Fall_Into_The_Sky_(Lucky_Date_&_Zedd)_(Feat._Ellie_Goulding)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fall into the Sky",
+      "artist": "Fight The Fade",
+      "has_synced": true,
+      "path": "select/11_Fall_into_the_Sky_Fight_The_Fade.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fall Into the Sky",
+      "artist": "Lucky Date",
+      "has_synced": true,
+      "path": "select/12_Fall_Into_the_Sky_Lucky_Date.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Into the Sky",
+      "artist": "Romantic Emily",
+      "has_synced": false,
+      "path": "select/13_Into_the_Sky_Romantic_Emily.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fall Into The Sky (feat. Ellie Goulding & Lucky Date)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/14_Fall_Into_The_Sky_(feat._Ellie_Goulding_&_Lucky_Date)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fall Into the Sky (feat. Ellie Goulding)",
+      "artist": "Zedd feat. Lucky Date & Ellie Goulding",
+      "has_synced": true,
+      "path": "select/15_Fall_Into_the_Sky_(feat._Ellie_Goulding)_Zedd_feat._Lucky_Date_&_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fall Into the Sky",
+      "artist": "Zedd",
+      "has_synced": false,
+      "path": "select/16_Fall_Into_the_Sky_Zedd.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Into The Sky",
+      "artist": "Switchblade Symphony",
+      "has_synced": false,
+      "path": "select/17_Into_The_Sky_Switchblade_Symphony.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Into the Sky",
+      "artist": "PNAU",
+      "has_synced": true,
+      "path": "select/18_Into_the_Sky_PNAU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Into the Sky",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_01_Into_the_Sky_澤野弘之.txt"
+    }
+  ]
+}
